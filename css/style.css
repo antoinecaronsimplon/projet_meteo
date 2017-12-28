@@ -89,4 +89,80 @@ section {
 	color: black;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*Corentin*/
+.container{
+	display:flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.container ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.container ul li a {
+	text-transform: none;
+}
