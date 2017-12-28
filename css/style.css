@@ -1,12 +1,26 @@
 body {
  font-style: 18px;
- background-image: url('../img/fontjpg');
+ background-image: url('../img/font.jpg');
 }
 
 /*Celine*/
+header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	border-bottom: 2px solid black;
+	padding-bottom: 34px;
+	padding-right: 500px;	
+}
 
+#recherche{
+	padding-top: 25px;
+}
 
-
+#ville{
+	border: 3px double black;
+	font-size: 15px;
+}
 
 /*Antoine*/
 
